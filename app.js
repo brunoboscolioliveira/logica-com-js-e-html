@@ -46,7 +46,8 @@
           "Operador de guindaste",
           "Mergulhador profissional",
           "Trabalhador de demolição",
-          "Astronauta"
+          "Astronauta",
+          "Desenvolvedor"
     ];
 
     

@@ -49,3 +49,4 @@ Bruno Boscoli Dev
 - Wagner Assis
 - Juan Pablo 
 - Paulo Vieira
+- Joyce Boscoli
